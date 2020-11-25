@@ -15,9 +15,9 @@ def leftrotate(m):
   ###7 8 9
   ###We can rotate this in counterclockwise using the above code
   ###3 6 9
-  ###2 5 8 New change 
+  ###2 5 8
   ###1 4 7
-m = [[1,2,3,4], [5,6,7,8], [9,10,11,12], [13,14,16,19]]
+m = [[1,2,3,4], [5,6,7,8], [9,10,11,12], [13,14,18,25]]
 print(leftrotate(m))
 
 #1 2 3 4
